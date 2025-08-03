@@ -1,24 +1,70 @@
-<h1 align="center">Hi 👋, I'm shamez</h1>
-<h3 align="center">A passionate Quant finance</h3>
+# 👋 Hi, I’m Shamez
 
-- 🔭 I’m currently working on [SMA Crossover Trading Strategy](https://github.com/shamez89/sma-strategy)
+Welcome to my GitHub! I'm a **Finance graduate** and **beginner in Quantitative Finance**, exploring the world where data meets investing. I’m learning to build data-driven financial models using code, logic, and a lot of curiosity.
 
-- 🌱 I’m currently learning **Python for finance, CAPM, Black-Scholes, pandas, statistics,**
+---
 
-- 👯 I’m looking to collaborate on **Quant Strategy Backtester**
+## 🧠 Currently Learning
 
-- 📝 I regularly write articles on [https://shamez.substack.com/](https://shamez.substack.com/)
+- Quant Strategies: SMA, CAPM, Black-Scholes
+- Financial Modeling and Valuation
+- Python, R, MySQL for Data Analysis
+- Machine Learning & Statistics for financial insights
 
-- 💬 Ask me about **Python basics, Quant finance**
+---
 
-- 📫 How to reach me **shamezalam5@gmail.com**
+## 💻 Tech Stack
 
-- ⚡ Fun fact **I got into quant finance because I love patterns — both in numbers and in life**
+| Area               | Tools / Languages |
+|--------------------|------------------|
+| Programming        | Python 🐍, R 📘 |
+| Databases          | MySQL 🐬 |
+| Quant Models       | CAPM, Black-Scholes, SMA |
+| ML & Stats         | pandas, scikit-learn, statsmodels |
+| Visualization      | matplotlib, seaborn, ggplot2 |
+| Tools              | Git, Jupyter Notebook |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shamez-alam-31840a278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shamez-alam-31840a278" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🎯 Fun Fact
+
+> I love connecting **financial logic** with **statistical models** to answer big "What if?" questions in markets.
+
+---
+
+## ✨ Personal Vibe
+
+<img src="https://raw.githubusercontent.com/shamez89/shamez89/main/assets/ok-anime.png" width="120"/>
+
+*(Yes, that’s me when my code runs without error.)*
+
+---
+
+## 🔥 Featured Projects
+
+- **SMA Strategy in Quant Finance**  
+  [View on GitHub](https://github.com/shamez89/sma-strategy)  
+  A beginner-friendly moving average crossover backtest in Python.
+
+---
+
+## 🎥 Cool Stuff I Like
+
+![Python](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![SQL](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![Machine Learning](https://media.giphy.com/media/i4NjAwytZkLt9OY1tS/giphy.gif)
+![Quant Finance](https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif)
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/shamez-alam-31840a278)
+- [Substack](https://substack.com/@shamez)
+- [GitHub](https://github.com/shamez89)
+
+---
+
+🔁 *This profile is evolving — just like markets.*
+
+<img src="assets/ok-anime.png" width="120"/>
