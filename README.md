@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shamez
+#  Hey, I’m Shamez
 
 <img src="https://github.com/user-attachments/assets/4953e920-92d3-4096-93dc-248f16857621" width="140"/>
 
